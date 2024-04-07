@@ -1,6 +1,7 @@
 {
   "name": "stampify",
   "private": true,
+  "homepage": "https://lucasfber.github.io/stampify/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
